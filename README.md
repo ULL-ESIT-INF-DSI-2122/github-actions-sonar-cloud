@@ -10,6 +10,10 @@
     <a href='https://coveralls.io/github/ULL-ESIT-INF-DSI-2021/github-actions-sonar-cloud?branch=main'>
         <img src='https://coveralls.io/repos/github/ULL-ESIT-INF-DSI-2021/github-actions-sonar-cloud/badge.svg?branch=main' alt='Coverage Status' />
     </a>
+    <a href='https://sonarcloud.io/dashboard?id=ULL-ESIT-INF-DSI-2021_github-actions-sonar-cloud'>
+        <img src='https://sonarcloud.io/api/project_badges/measure?project=ULL-ESIT-INF-DSI-2021_github-actions-sonar-cloud&metric=alert_status' alt='Quality Gate Status' />
+    </a>
+
 </p>
 
 En este repositorio se aloja un ejemplo sencillo que ilustra el uso de la herramienta Sonar Cloud para comprobar la calidad
