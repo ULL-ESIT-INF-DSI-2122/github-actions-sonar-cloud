@@ -1,14 +1,14 @@
 ## Calidad y seguridad del código fuente mediante Sonar Cloud
 
 <p align="center">
-    <a href="https://github.com/ULL-ESIT-INF-DSI-2021/github-actions-typescript-nodejs-ci/blob/master/LICENSE">
-        <img alt="GitHub" src="https://img.shields.io/github/license/ULL-ESIT-INF-DSI-2021/github-actions-typescript-nodejs-ci">
+    <a href="https://github.com/ULL-ESIT-INF-DSI-2021/github-actions-sonar-cloud/blob/master/LICENSE">
+        <img alt="GitHub" src="https://img.shields.io/github/license/ULL-ESIT-INF-DSI-2021/github-actions-sonar-cloud">
     </a>
-    <a href="https://github.com/ULL-ESIT-INF-DSI-2021/github-actions-typescript-nodejs-ci/actions/workflows/tests.yml">
-        <img alt="Tests" src="https://github.com/ULL-ESIT-INF-DSI-2021/github-actions-typescript-nodejs-ci/actions/workflows/tests.yml/badge.svg">
+    <a href="https://github.com/ULL-ESIT-INF-DSI-2021/github-actions-sonar-cloud/actions/workflows/tests.yml">
+        <img alt="Tests" src="https://github.com/ULL-ESIT-INF-DSI-2021/github-actions-sonar-cloud/actions/workflows/tests.yml/badge.svg">
     </a>
-    <a href='https://coveralls.io/github/ULL-ESIT-INF-DSI-2021/github-actions-typescript-nodejs-ci?branch=main'>
-        <img src='https://coveralls.io/repos/github/ULL-ESIT-INF-DSI-2021/github-actions-typescript-nodejs-ci/badge.svg?branch=main' alt='Coverage Status' />
+    <a href='https://coveralls.io/github/ULL-ESIT-INF-DSI-2021/github-actions-sonar-cloud?branch=main'>
+        <img src='https://coveralls.io/repos/github/ULL-ESIT-INF-DSI-2021/github-actions-sonar-cloud/badge.svg?branch=main' alt='Coverage Status' />
     </a>
 </p>
 
