@@ -1,5 +1,5 @@
 {
-  "name": "github-actions-typescript-nodejs-ci",
+  "name": "github-actions-sonar-cloud",
   "version": "1.0.0",
   "description": "",
   "main": "dist/basicFunctions.js",
