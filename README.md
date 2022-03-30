@@ -4,8 +4,8 @@
     <a href="https://github.com/ULL-ESIT-INF-DSI-2122/github-actions-sonar-cloud/blob/master/LICENSE">
         <img alt="GitHub" src="https://img.shields.io/github/license/ULL-ESIT-INF-DSI-2122/github-actions-sonar-cloud">
     </a>
-    <a href="https://github.com/ULL-ESIT-INF-DSI-2122/github-actions-sonar-cloud/actions/workflows/tests.yml">
-        <img alt="Tests" src="https://github.com/ULL-ESIT-INF-DSI-2122/github-actions-sonar-cloud/actions/workflows/tests.yml/badge.svg">
+    <a href="https://github.com/ULL-ESIT-INF-DSI-2122/github-actions-sonar-cloud/actions/workflows/tests.js.yml">
+        <img alt="Tests" src="https://github.com/ULL-ESIT-INF-DSI-2122/github-actions-sonar-cloud/actions/workflows/tests.js.yml/badge.svg">
     </a>
     <a href='https://coveralls.io/github/ULL-ESIT-INF-DSI-2122/github-actions-sonar-cloud?branch=main'>
         <img src='https://coveralls.io/repos/github/ULL-ESIT-INF-DSI-2122/github-actions-sonar-cloud/badge.svg?branch=main' alt='Coverage Status' />
