@@ -10,7 +10,7 @@
     <a href='https://coveralls.io/github/ULL-ESIT-INF-DSI-2122/github-actions-sonar-cloud?branch=main'>
         <img src='https://coveralls.io/repos/github/ULL-ESIT-INF-DSI-2122/github-actions-sonar-cloud/badge.svg?branch=main' alt='Coverage Status' />
     </a>
-    <a href='https://sonarcloud.io/dashboard?id=ULL-ESIT-INF-DSI-2122_github-actions-sonar-cloud'>
+    <a href='https://sonarcloud.io/summary/new_code?id=ULL-ESIT-INF-DSI-2122_github-actions-sonar-cloud'>
         <img src='https://sonarcloud.io/api/project_badges/measure?project=ULL-ESIT-INF-DSI-2122_github-actions-sonar-cloud&metric=alert_status' alt='Quality Gate Status' />
     </a>
 </p>
